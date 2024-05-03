@@ -9,6 +9,7 @@ public class Game extends JPanel implements Runnable, KeyListener, MouseListener
     private boolean startgame;
     private boolean start, win, moveRight;
     private char screen;
+    
 
     public Game() {
         back = null;
